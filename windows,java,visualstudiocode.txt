@@ -1,3 +1,7 @@
+나는 날마다 점점 더 나아지고 있다. 
+111222333
+
+
 # Created by https://www.toptal.com/developers/gitignore/api/windows,java,visualstudiocode
 # Edit at https://www.toptal.com/developers/gitignore?templates=windows,java,visualstudiocode
 
